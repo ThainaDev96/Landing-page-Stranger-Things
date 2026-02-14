@@ -1,2 +1,2 @@
-# Landing-page-Stranger-Things
-Landing page inspirada no universo da série Stranger Things
+# Site-Stranger-Things
+Site inspirado no universo da série Stranger Things
